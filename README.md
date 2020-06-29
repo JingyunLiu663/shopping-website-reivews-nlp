@@ -13,7 +13,7 @@ In this project, we will use the NLP method to analyze a shopping website datase
 As general steps, we first need to tokenize the text and transform all the words to lower-case. We then remove all the stop words, puncuations, and stem the document. Finally, we vectorize all the words in a document with tf-idf weighted average.
 
 ## Apply Topic Modelling to Reduce Dimensionally 
-Apply Latent Dirichlet Allocation (LDA) and Latent Semantic Analysis (LSA) to convert documents from bag-of-words into bag-of-topics (Dimensionality Reduction)
+Apply Latent Dirichlet Allocation (LDA) and Latent Semantic Analysis (LSA) to convert documents from bag-of-words into bag-of-topics (Dimensionality Reduction.
 
 Use cross validation to select an appropriate number of topics for the whole dataset.
 
